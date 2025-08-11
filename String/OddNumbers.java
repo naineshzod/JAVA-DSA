@@ -9,7 +9,7 @@ public class OddNumbers {
             // 3. Check if the number is odd.
             if (i % 2 != 0) {
                 // 4. If it is, add it to our list with a space.
-                oddNumbersList = oddNumbersList + i + " ";
+                oddNumbersList = oddNumbersList +" "+ i;
             }
         }
 

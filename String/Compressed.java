@@ -19,7 +19,7 @@ public class Compressed {
     }
     public static void main(String[] args){
         String str = "aaabbbccc";
-        compress(str);
+        //compress(str);
         System.out.println("Compressed string: " + compress(str));
         
     }

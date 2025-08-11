@@ -1,7 +1,7 @@
 public class Access {
     public static void main(String [] args)
     {
-        BankAccount acc= new BankAccount();
+        BankAccount acc= new BankAccount(); 
         acc.username = "user123";
      
         acc.setpassword("pass123");
